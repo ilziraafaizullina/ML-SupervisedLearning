@@ -104,17 +104,6 @@
 
 ---
 
-## Структура проекта
-
-```bash
-├── data/
-├── images/
-├── notebooks/
-└── README.md
-```
-
----
-
 ## Основные темы проекта
 
 * Linear Regression
